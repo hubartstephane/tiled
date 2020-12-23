@@ -85,6 +85,17 @@ using that IDE. This can be done with the following command:
 
     qbs generate -g visualstudio2017
 
+
+
+
+
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+
+
+
+
+
 Installing
 -------------------------------------------------------------------------------
 
